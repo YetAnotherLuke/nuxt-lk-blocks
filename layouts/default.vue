@@ -7,7 +7,7 @@
           <div class="absolute">
             <fa :icon="{prefix: 'fas', iconName: 'home'}" class="text-red-600 text-xl" />
           </div>
-          <span class="text-gray-100 relative overflow-hidden pl-10">Homepage</span>
+          <span class="text-gray-100 relative overflow-hidden pl-10">Home</span>
         </div>
         <div class="flex items-center flex-shrink-0 text-white py-3">
           <div class="absolute">
