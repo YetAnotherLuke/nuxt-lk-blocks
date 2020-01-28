@@ -1,7 +1,7 @@
 {
   "name": "lk-blocks",
   "version": "1.0.0",
-  "description": "Front end plug and play blocks",
+  "description": "NuxtJS + TailwindCSS plug and play blocks",
   "author": "Luke",
   "private": true,
   "scripts": {
