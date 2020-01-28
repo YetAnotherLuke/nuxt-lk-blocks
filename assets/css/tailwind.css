@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+.transition-all-half{
+    transition: all 0.5s;
+    transition-delay: 0.25s;
+}
